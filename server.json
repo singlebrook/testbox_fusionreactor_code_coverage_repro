@@ -1,5 +1,8 @@
 {
     "app":{
         "cfengine":"adobe@2021.0.1"
+    },
+    "fusionreactor":{
+        "installID":"fusionreactor@8.7.0"
     }
 }
